@@ -1,6 +1,6 @@
 # **Tìm hiểu về  Git**
 
-![](https://github.com/satthuno999/Git-Github/tree/master/images/logogit.png )
+![](https://github.com/xuanbinh99/Thuc_Tap/blob/master/images/logogit.png "Logo git")
 
 ## Mục lục
 [1. Lịch sử của Git.](#lichsugit)
