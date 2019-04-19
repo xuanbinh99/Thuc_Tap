@@ -41,7 +41,7 @@
 + Mỗi lần ta thay đổi mã nguồn trên máy tính ta có thể ủy thác ( *commit* ) và đẩy lên kho chứa mã nguồn đó, từ máy tính khác ta dễ dàng *clone* những thay đổi mới nhất kia.
 + Ngoài ra ta sẽ dễ dàng khôi phục những thay đổi của mã nguồn mà không cần lưu lại mã nguồn trước khi sửa.
 
-![](https://github.com/satthuno999/Git-Github/tree/master/images/sdgit.png "Work Tree")
+![](https://github.com/xuanbinh99/Thuc_Tap/tree/master/images/sdgit.png "Work Tree")
 
 + Trong công việc:
     - Quản lý code và lịch sử thay đổi
