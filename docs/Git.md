@@ -1,6 +1,6 @@
 # **Tìm hiểu về  Git**
 
-![](https://github.com/xuanbinh99/Thuc_Tap/blob/master/images/logogit.png "Logo git")
+![](https://github.com/xuanbinh99/blob/master/images/logogit.png )
 
 ## Mục lục
 [1. Lịch sử của Git.](#lichsugit)
@@ -41,7 +41,7 @@
 + Mỗi lần ta thay đổi mã nguồn trên máy tính ta có thể ủy thác ( *commit* ) và đẩy lên kho chứa mã nguồn đó, từ máy tính khác ta dễ dàng *clone* những thay đổi mới nhất kia.
 + Ngoài ra ta sẽ dễ dàng khôi phục những thay đổi của mã nguồn mà không cần lưu lại mã nguồn trước khi sửa.
 
-![](https://github.com/xuanbinh99/Thuc_Tap/tree/master/images/sdgit.png "Work Tree")
+![](https://github.com/xuanbinh99/blob/master/images/sdgit.png "Work Tree")
 
 + Trong công việc:
     - Quản lý code và lịch sử thay đổi
@@ -51,7 +51,7 @@
     - Tự tin hơn khi thử nghiệm ý tưởng mới
 + Hoạt động cơ bản của Git
 
-![](https://github.com/satthuno999/Git-Github/tree/master/images/hdgit.png "Cách hoạt động của Git")
+![](https://github.com/xuanbinh99/blob/master/images/hdgit.png "Cách hoạt động của Git")
 
 - Giả sử từ *Repository* chính trong **Github** ta có thể làm việc với nhiều máy tính khác nhau khi được ủy quyền.
 - Một số Lệnh cơ bản trên Git:
