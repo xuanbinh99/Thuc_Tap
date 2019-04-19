@@ -21,7 +21,7 @@
 
 ## 1. Lịch sử của Git.
 
-+ Được phát triển bởi **Linus Torvalds** vào năm 2005, ban đầu dành cho việc phát triển nhân **Linux**. Hiện nay, **Git** trở thành một trong các phần mềm quản lý mã nguồn phổ biến nhất. **Git** là phần mềm mã nguồn mở được phân phối theo giấy phép công cộng **GPL2**. 
++ Được phát triển bởi **Linus Torvalds** vào năm 2005, ban đầu dành cho việc phát triển nhân viên **Linux**. Hiện nay, **Git** trở thành một trong các phần mềm quản lý mã nguồn phổ biến nhất. **Git** là phần mềm mã nguồn mở được phân phối theo giấy phép công cộng **GPL2**. 
 
 <a name="gitlagi">
 
