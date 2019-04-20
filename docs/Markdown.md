@@ -8,6 +8,8 @@
 
 [3.Cách viết ngôn ngữ Markdown](#hdvietmd)
 
+[Markdown](#H3)
+
 ---
 
 <a name="khainiem">
