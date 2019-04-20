@@ -21,7 +21,7 @@
 
 ## 1. Lịch sử của Git.
 
-+ Được phát triển bởi **Linus Torvalds** vào năm 2005, ban đầu dành cho việc phát triển nhân viên **Linux**. Hiện nay, **Git** trở thành một trong các phần mềm quản lý mã nguồn phổ biến nhất. **Git** là phần mềm mã nguồn mở được phân phối theo giấy phép công cộng **GPL2**. 
++ Được phát triển bởi **Linus Torvalds** vào năm 2005, ban đầu dành cho việc phát triển nhân **Linux**. Hiện nay, **Git** trở thành một trong các phần mềm quản lý mã nguồn phổ biến nhất. **Git** là phần mềm mã nguồn mở được phân phối theo giấy phép công cộng **GPL2**. 
 
 <a name="gitlagi">
 
@@ -32,8 +32,8 @@
 <a name="phanbietgit" >
 
 ## 3. Phân biệt **Git** với **Github**.
-+ **Git** là tên gọi của một mô hình hệ thống còn **Github** là một dịch vụ máy chủ hoạt động theo mô hình hệ thống Git
-+ Mỗi máy tính có thể *clone* mã nguồn từ một *repository* thì **Github** là nơi lưu chữ các kho chứa mã nguồn *repo* kia.
++ **Git** là phần mềm của một mô hình hệ thống còn **Github** là một dịch vụ máy chủ hoạt động theo mô hình hệ thống Git
++ Mỗi máy tính có thể *clone* mã nguồn từ một *repository* thì **Github** là nơi lưu trữ các kho chứa mã nguồn *repo* kia.
 
 <a name="sdgit">
 
