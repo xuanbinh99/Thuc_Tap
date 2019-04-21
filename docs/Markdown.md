@@ -96,6 +96,7 @@ echo ("highlight code");
 ```
 
 ta sẽ được bảng :
+
 | dòng | cột 1 | cột 2 | Cột 3 |
 | ----- |-----|------|-----|
 |dòng 1 | 1 | 2 | 3 |
@@ -140,11 +141,11 @@ ta sẽ được bảng :
 
         ví dụ:
 
-        ![Avatar Facebook](https://www.facebook.com/photo.php?fbid=652536888521647&set=a.105099336598741&type=3&theater "Mô tả ảnh")
+        ![Avatar Facebook](https://scontent.fhan5-7.fna.fbcdn.net/v/t1.0-9/48422330_593868904388446_1488964414475337728_n.jpg?_nc_cat=103&_nc_oc=AQlOZyxwshBBYL2rtXgdHvMB-6grkcgAXGgQOg_ggTxbL_I5-EhjEdl-sutAZI9vi1M&_nc_ht=scontent.fhan5-7.fna&oh=d707920adbe88babda41a9f6ae7bd743&oe=5D3B70B5 "Mô tả ảnh")
 
         ta được:
         ```
-        ![Avatar Facebook](https://www.facebook.com/photo.php?fbid=652536888521647&set=a.105099336598741&type=3&theater "Mô tả ảnh")
+        ![Avatar Facebook](https://scontent.fhan5-7.fna.fbcdn.net/v/t1.0-9/48422330_593868904388446_1488964414475337728_n.jpg?_nc_cat=103&_nc_oc=AQlOZyxwshBBYL2rtXgdHvMB-6grkcgAXGgQOg_ggTxbL_I5-EhjEdl-sutAZI9vi1M&_nc_ht=scontent.fhan5-7.fna&oh=d707920adbe88babda41a9f6ae7bd743&oe=5D3B70B5 "Mô tả ảnh")
 
 
 ## **4. Kết luận**
